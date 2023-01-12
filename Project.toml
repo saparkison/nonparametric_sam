@@ -1,0 +1,8 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GaussianProcesses = "891a1506-143c-57d2-908e-e1f8e92e6de9"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+KernelDensityEstimate = "2472808a-b354-52ea-a80e-1658a3c6056d"
+KernelDensityEstimatePlotting = "c43967c8-f634-5d24-8eab-2867546b366b"
+RoME = "91fb55c2-4c03-5a59-ba21-f4ea956187b8"
+RoMEPlotting = "238d586b-a4bf-555c-9891-eda6fc5e55a2"
